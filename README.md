@@ -4,8 +4,9 @@ This ros package do multi-object tracking using kitti pointcloud ground truth da
 ![Peek 2020-10-28 16-15](https://user-images.githubusercontent.com/59205405/113991659-a3273b00-988d-11eb-822e-c71de0f0b631.gif)
 
 ## 사전준비
+- ROS 설치
 - Kitti dataset rosbag file 
-- jsk_rviz_plugins 설치
+- jsk_rviz_plugins 설치 
 - jsk_recognition_msgs 설치
 ```
 sudo apt-get install ros-melodic-jsk-recognition-msgs & sudo apt-get install ros-melodic-jsk-rviz-plugins
