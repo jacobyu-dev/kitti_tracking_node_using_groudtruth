@@ -32,9 +32,5 @@ Tomáš Krejčí created a simple tool for conversion of raw kitti datasets to R
 - BoundingBoxArray, PictogramArray, Image, PointCloud2 의 topic을 rqt_graph를 보고 맞추어준다.
 
 ## 4. Rqt_graph
-![image](https://user-images.githubusercontent.com/59205405/93187056-50175a80-f77a-11ea-9419-755a8d767e87.png)
 ![image](https://user-images.githubusercontent.com/59205405/113992227-33658000-988e-11eb-8df3-57e776df701c.png)
 
-
-## 5. 결과
-![image](https://user-images.githubusercontent.com/59205405/93187240-9076d880-f77a-11ea-99f6-4f23337b8e2d.png)
