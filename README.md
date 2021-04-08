@@ -1,2 +1,2 @@
 # kitti_tracking_node_using_groudtruth
-This packages
+This ros package do multi-object tracking using kitti pointcloud ground truth data (tracklet.xml)
